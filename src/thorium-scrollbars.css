@@ -1,0 +1,29 @@
+/* Copyright (c) 2022 Alex313031. */
+
+/* Track */
+::-webkit-scrollbar-track-piece{
+	background-color:auto;
+	-webkit-border-radius:1px;
+}
+
+/* width & height */
+::-webkit-scrollbar{
+	width:12px;
+	height:12px;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb{ 
+	height:auto;
+	background-color:#2C2C2C; 
+	-webkit-border-radius:6px;
+	border: 1px solid #FFFFFF;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover{
+	height:auto; 
+	background-color:#666666;
+	-webkit-border-radius:6px;
+	border: 1px solid #FFFFFF;
+}
