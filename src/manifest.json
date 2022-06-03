@@ -25,6 +25,4 @@
 	},
 	"permissions": [ "scripting" ],
 	"host_permissions": [ "<all_urls>","*://*/*" ],
-	"update_url": "https://clients2.google.com/service/update2/crx",
-	"key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAwIeMjN8X2ZoAKMD4PiQL41oyxjV763wLTa2Gbcqnz/dVmxUafKyh/pIIuD1cMxNm9NbLbAxIzgXnuFv0g0iuerp+xd9BcnRhOtJauEyaqAaUm5wMq83Dy+PM1n3VZ5o//2xW/n372PqXW/hdbbuRBwLmweJDeOzFi/LeLChdzfwAtSo1aWQ4ucWbKP7MTbqwiF0E9NWnlI6PSCO4vIs4lmuUdz5D0nEl7Fx8pT4EcSbXDBIePbAyRf9S2Wq2WyR7pe8ZSmkfG0bl3m/dxnvhsmLokdsbNxLFfYo8cUCBIx/P08/jP30WE4c3IJj1povJtyd91zRpzmOMM4qZEwDSbwIDAQAB"
 }
