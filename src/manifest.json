@@ -3,6 +3,7 @@
 {
 	"name": "Thorium Scrollbars",
 	"short_name": "Thorium Scrollbars",
+	"author": "Alex313031",
 	"description": "Thorium Overlay Scrollbars Theme",
 	"version": "1.0.2",
 	"offline_enabled": true,
@@ -24,5 +25,5 @@
 		"256": "icon_256.png"
 	},
 	"permissions": [ "scripting" ],
-	"host_permissions": [ "<all_urls>","*://*/*" ],
+	"host_permissions": [ "<all_urls>","*://*/*" ]
 }
