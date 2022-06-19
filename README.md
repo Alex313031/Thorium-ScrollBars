@@ -4,6 +4,7 @@
 
 
  - A simple scrollbar CSS theme for the Thorium Browser.
+ - You can get it [here](https://chrome.google.com/webstore/detail/thorium-scrollbars/ilhogmofjjmlbjoceipichhgfnnbldcn).
 
 DESCRIPTION: A simple scrollbar Cascading Style Sheets theme for the Thorium Browser.
 
